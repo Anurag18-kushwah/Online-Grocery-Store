@@ -1,0 +1,17 @@
+{
+  "name": "grocerai",
+  "private": true,
+  "scripts": {
+    "install:all": "npm --prefix server install && npm --prefix client install",
+    "build": "npm --prefix client run build",
+    "seed": "npm --prefix server run seed",
+    "photos": "npm --prefix server run photos",
+    "setup": "npm --prefix server run setup",
+    "photos:pick": "npm --prefix server run photos:pick",
+    "start": "npm --prefix server start",
+    "start:local": "npm --prefix server run start:local",
+    "dev:server": "npm --prefix server run dev",
+    "dev:client": "npm --prefix client run dev",
+    "test": "npm --prefix server test"
+  }
+}

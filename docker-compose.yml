@@ -1,0 +1,14 @@
+services:
+  mongo:
+    image: mongo:7
+    volumes: [mongo-data:/data/db]
+  app:
+    build: .
+    ports: ["4000:4000"]
+    environment:
+      MONGODB_URI: mongodb://mongo:27017/grocerai
+      JWT_SECRET: ${JWT_SECRET:?set JWT_SECRET in your shell or .env}
+      LLM_PROVIDER: ${LLM_PROVIDER:-none}
+    depends_on: [mongo]
+volumes:
+  mongo-data:

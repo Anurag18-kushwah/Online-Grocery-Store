@@ -1,0 +1,394 @@
+{
+  "royal-gala-apples": {
+    "source": "pixabay",
+    "photographer": "lumix2004",
+    "page": "https://pixabay.com/photos/apples-orchard-apple-trees-1873078/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/g615f0f57f2438339533d02d41f6f3ffba71b80898657cced7857bba045a11cac51f7375129fca686c6a8383dca53c525841b828ce550a55325d2286e2f6c0b64_1280.jpg"
+  },
+  "robusta-bananas": {
+    "source": "pixabay",
+    "photographer": "StockSnap",
+    "page": "https://pixabay.com/photos/bananas-fruits-food-grocery-store-698608/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/g8b997e51e88342316e7369a3090c797a901393b9591ee818dccc32dfcf14aad5815ca92ff658ca102e627531ebb04f474522a075d7576ea4d2cc020b18cb1f86_1280.jpg"
+  },
+  "seedless-green-grapes": {
+    "source": "pixabay",
+    "photographer": "Couleur",
+    "page": "https://pixabay.com/photos/grapes-fruits-food-fresh-healthy-3696472/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/g2f8a82df3f0fd4378997c818d56b3192017ffb60f5bfee91caac7afd60f6b01829f2da98e3f8b8a92a39ec50e730e325d4870c664ec412a062a1efd6fa541b0b_1280.jpg"
+  },
+  "fresh-tomatoes": {
+    "source": "pixabay",
+    "photographer": "Engin_Akyurt",
+    "page": "https://pixabay.com/photos/casserole-dish-vegetables-mushrooms-2776735/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/gc7089cbc7f36faa1f6e39668ac60978bffea6e4258bf62f2e7103c017aa0aaf28bbd71e97536a5dbc860bda145afbea441c6b847cad8f31cdebdf18e3e7fe4c4_1280.jpg"
+  },
+  "green-capsicum": {
+    "source": "pixabay",
+    "photographer": "RitaE",
+    "page": "https://pixabay.com/photos/paprika-salad-celery-nuts-food-3212137/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/gd75e0160aeb4a731ae93def84797b335b8740f7ece7ca4b5092ab189760d0beec9892ee7c8bac1e9cab92e44a35b841dcd225643356df324adcfe0a47e2d0d9b_1280.jpg"
+  },
+  "masala-peanuts": {
+    "source": "pixabay",
+    "photographer": "Couleur",
+    "page": "https://pixabay.com/photos/nuts-peanuts-roasted-snacks-1736520/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/gdac18d10bd9dc14cafb4264918adbbd3e1c0065c2ea3605044e6cde800807ea1cc5109c75a229b64f57901bd8b2beb3090a9e60a02e3c0dd9c43d26cb4f72617_1280.jpg"
+  },
+  "orange-juice-1-l": {
+    "source": "pixabay",
+    "photographer": "AS_Photography",
+    "page": "https://pixabay.com/photos/orange-juice-vitamin-c-healthy-1921548/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/g248507117517e8b61cc4632407558e87a9b93093f61be8f8a7739c8510d8b0730ef8425e218bdfb6d56f4ca8b9854610bc2e435a59da05b8bd377067a5b30137_1280.jpg"
+  },
+  "assam-tea-500-g": {
+    "source": "pixabay",
+    "photographer": "822640",
+    "page": "https://pixabay.com/photos/tea-hot-cup-drink-cup-of-tea-1090672/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/g4e294becbe92eeef23867d8de91317318d1e907418ab345d49d7f193a74206b43ef04dd99e9cf1365142c12569ee77b7e3cfaa31d1e4ae58816de7a8523f6814_1280.jpg"
+  },
+  "instant-coffee-100-g": {
+    "source": "pixabay",
+    "photographer": "Engin_Akyurt",
+    "page": "https://pixabay.com/photos/coffee-pen-notebook-open-notebook-2306471/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/g2b9ecee985b8f725eb0e64d2d848e790425fe18749d7f3c4791a3783e1eb66cd0b35428d05869f1e5619b0a9646b09c374ed750fea6e780391410bc68a31f61c_1280.jpg"
+  },
+  "basmati-rice-5-kg": {
+    "source": "pixabay",
+    "photographer": "sasint",
+    "page": "https://pixabay.com/photos/rice-women-sitting-harvest-sow-1807547/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/g1368cb4dbde13c122c76afce322abac63f49abc15e26299d8eb2dd633dbe5e0b9b98ca2a8bb4a66f707d043e4ec51efbeb48529a0f43c55cd453793490afb83a_1280.jpg"
+  },
+  "soy-sauce-200-ml": {
+    "source": "pixabay",
+    "photographer": "Wow_Pho",
+    "page": "https://pixabay.com/photos/food-salmon-teriyaki-fish-eat-712665/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/ge0153447499f193747a6327e712c2d7748a1181795b99d95ce5153d18b812d681b7d9fc0a9d4b20ef62794d19537cfe6a6dad2e4810781668bbb6d264b3fd264_1280.jpg"
+  },
+  "turmeric-powder-200-g": {
+    "source": "pixabay",
+    "photographer": "monicore",
+    "page": "https://pixabay.com/photos/spices-jars-herbs-herbs-and-spices-2548653/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/gb9d5fdfaeca245026a2ec79f4b387bb61592a184dda14cdc715fb18b325bbb6c7c2e7b4f4acd219402391122b9d898677590c4a127308cd280b5a0709341434b_1280.jpg"
+  },
+  "herbal-shampoo": {
+    "source": "pixabay",
+    "photographer": "Atlantios",
+    "page": "https://pixabay.com/photos/message-in-a-bottle-sea-wreck-3437294/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/g959dbba59df04ee70ff0dd32d53cddd1d6b344ba82b0292bd23d54151db91d1cfd89390dd92b11d0892fe31d7c28aa154552705ebdd6600c8d60621c266c3059_1280.jpg"
+  },
+  "glycerin-soap-3-pack": {
+    "source": "pixabay",
+    "photographer": "ddimitrova",
+    "page": "https://pixabay.com/photos/kid-soap-bubbles-girl-child-fun-1241817/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/gc6f7a57dc554684f5ad3780c21ee247a5cd0bea1a9e0bb53faa1856e32dcd59ab50df95d72dfcaaeb342f2c575dc56aa539d46b6ab374da0e20d66fc1c7fe2bd_1280.jpg"
+  },
+  "laundry-detergent-2-kg": {
+    "source": "pixabay",
+    "photographer": "RyanMcGuire",
+    "page": "https://pixabay.com/photos/laundry-washing-machines-413688/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/g992108c1f1384d2371d8c2d892b8f6162b0f7c4041e532122e25e3bce7e39960d57d8176eb9321065c8493558e8e7c65b96a7944e0743c682d89628311d9af25_1280.jpg"
+  },
+  "kitchen-tissue-roll": {
+    "source": "pixabay",
+    "photographer": "Alexas_Fotos",
+    "page": "https://pixabay.com/photos/shopping-toilet-paper-covid-19-4974313/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/g68c6c6b86033b1d03943ad5b461750bbac2240e92ccf90c3e6f4505c2cc5a015c4174941f931fee7d4bce4670a9ccb2eb5f64faf087e20b40c0474c5328bcbab_1280.jpg"
+  },
+  "alphonso-mangoes": {
+    "source": "pixabay",
+    "photographer": "Shutterbug26",
+    "page": "https://pixabay.com/photos/mango-fruit-colorful-food-fresh-1239347/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/g8f8f3cc459a1a390e0d9f4bab1bb9a516489ecfeb0b8f0aebe65ab32abf9e8a0bb9ab04bceb65d220cea9c0cc9ff88d0c05ca07b9b5e3728e54615ec6fbcc79b_1280.jpg"
+  },
+  "nagpur-oranges": {
+    "source": "pixabay",
+    "photographer": "pixel2013",
+    "page": "https://pixabay.com/photos/oranges-citrus-fruits-fruits-1995056/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/gdb478b5c12413d0814e5bc11a8f7a961045df5b4867c1756e670d2a0f23ffd8eafacb60639988a7616c6e4cf9fc2ebc00188bcce7bc0a2fdf1719c82f28fb6ae_1280.jpg"
+  },
+  "potatoes": {
+    "source": "pixabay",
+    "photographer": "Wounds_and_Cracks",
+    "page": "https://pixabay.com/photos/potatoes-vegetables-food-raw-411975/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/ga846dff991a4b66d2584c669a9671bd231ad09e23f48437869c12e1e421b131932314cd2f754ad8afa7a15360b6bb8386e8912b31e7f6e7281e2dd49e1f5f0fe_1280.jpg"
+  },
+  "broccoli": {
+    "source": "pixabay",
+    "photographer": "Schwarzenarzisse",
+    "page": "https://pixabay.com/photos/broccoli-vegetable-food-1450274/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/gbcc989e416553e40f2a188ad3ba2c0e04284ec0c26812e591af0985662021d884320da90a83622ba88d721731c29b3fa41e4101d09f4e495a057818763141fc5_1280.png"
+  },
+  "salted-butter": {
+    "source": "pixabay",
+    "photographer": "markusspiske",
+    "page": "https://pixabay.com/photos/bake-butter-flour-pile-599521/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/g80d2bb13ba43353c0d0519e872a3715f7a5af68aa03c96886fe5a998c83a3df37076a14660b878e836ff8f6c5aa70dd432777eee6ff3c2b9f7e8f39fe0764c1a_1280.jpg"
+  },
+  "protein-bar-almond": {
+    "source": "pixabay",
+    "photographer": "Couleur",
+    "page": "https://pixabay.com/photos/milk-glass-pitcher-fresh-2474993/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/g5f89077515bed94d67a8bc68c5acbb3283c858937e9f68c45d67b985b5b62562b5aeb2440ac1efc425ff0d334250314d998ae5e5de86ab814554ad963096c0d0_1280.jpg"
+  },
+  "instant-noodles-4-pack": {
+    "source": "pixabay",
+    "photographer": "Divily",
+    "page": "https://pixabay.com/photos/spaghetti-pasta-noodles-italian-2931846/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/g04833fdb2c8bac803faa65285cb870605b14b8d8d3368536de23737b291eec1eac1bb15e2163595a4aa0f53d3c3a12d64f0edfdb403670d6843c62231ca6c797_1280.jpg"
+  },
+  "cola-2-l": {
+    "source": "pixabay",
+    "photographer": "igorovsyannykov",
+    "page": "https://pixabay.com/photos/beverages-bottles-shelf-cans-coke-3105631/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/g36ecd235db7f79abf5565036181cc34b151d27e07f737dbff4e40cd56dc30d97105a24b0166b4987608b48366489c43c3663825fa91f3f853acb181cfe64b9de_1280.jpg"
+  },
+  "toor-dal-1-kg": {
+    "source": "pixabay",
+    "photographer": "PDPics",
+    "page": "https://pixabay.com/photos/daal-chana-lentils-indian-cuisine-166985/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/gba5a7935266444bb32124e91e44c7e53513919815a548e6c12bcea48bcc7ee313fb89ab65ca58e6c5d6ef9b4b222042e2c5f033cd177f93e1745f4542f6a4880_1280.jpg"
+  },
+  "sunflower-oil-1-l": {
+    "source": "pixabay",
+    "photographer": "stevepb",
+    "page": "https://pixabay.com/photos/olive-oil-olives-food-oil-natural-968657/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/g500589f974248d6a29d7d50bf4a83f14ce08743ecb065c2dec413af38f022ee3fe86a1e493b923654cf1711314f25ad20a9d7c43a40fe67862ff0979a0cd5b28_1280.jpg"
+  },
+  "iodised-salt-1-kg": {
+    "source": "pixabay",
+    "photographer": "mkupiec7",
+    "page": "https://pixabay.com/photos/salt-sea-salt-spoon-wooden-spoon-6728600/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/gdfa43ff4d0532217bf8f203fbebe4f12670d161056223ee7d7f104243dad8507f2f4c709f6afeabd2afe899dbaffb72168fbe10947a8164897d79b7935b3ada3_1280.jpg"
+  },
+  "sugar-1-kg": {
+    "source": "pixabay",
+    "photographer": "congerdesign",
+    "page": "https://pixabay.com/photos/waffle-hearts-waffles-icing-sugar-2697904/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/g9f25f67299ae0ed11cb6aacd988d03d65caf8bb455a6666a692061285b52fdbef7a81bc91a136bcd78fffa0fcbab74f3759321b6cfb378a0e441c0aeb6123a5d_1280.jpg"
+  },
+  "moisturising-body-lotion": {
+    "source": "pixabay",
+    "photographer": "whitedaemon",
+    "page": "https://pixabay.com/photos/girl-face-colorful-colors-artistic-2696947/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/g946d89d7ccdc7011184acb34878e9db9f3f5c1e6311e2e2f05b5b6b4ac69bb90de7398ba59aec4c544c74852db8312b3f7049ef756d22532ad3db9651210967f_1280.jpg"
+  },
+  "toothpaste-150-g": {
+    "source": "pixabay",
+    "photographer": "stevepb",
+    "page": "https://pixabay.com/photos/toothbrush-toothpaste-healthcare-3191097/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/g538d66e96ac8e972dd943e13261d92754344cdc5373fd2838624e94a311824cc93ced72b2c0b1796b67be36777a142854608e0ffac44aad7cc19911e1e15ff51_1280.jpg"
+  },
+  "carrots": {
+    "source": "pixabay",
+    "photographer": "congerdesign",
+    "page": "https://pixabay.com/photos/carrots-vegetables-harvest-healthy-2387394/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/ge0c00e1280b98078f72b684177fd219d6c4638c13df7d96a818cfc2af0ab64267f3e950997c0fcbf9c1db9e5451210da9247f6ad2b160cfe6df5c1be01fcef76_1280.jpg"
+  },
+  "spring-onions": {
+    "source": "pixabay",
+    "photographer": "congerdesign",
+    "page": "https://pixabay.com/photos/vegetables-basket-vegetable-basket-752153/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/g015354766ddcdad9efaca335f18c943d5b48137a1e312a886a16b47ca1e2d21aaa8a6e46bf41064af2c16497c7ae02e3edb6f1cb12198ff2619efec2522b0031_1280.jpg"
+  },
+  "cheese-slices": {
+    "source": "pixabay",
+    "photographer": "RitaE",
+    "page": "https://pixabay.com/photos/salad-figs-cheese-goat-cheese-1672505/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/g54e28c727ff73fe413b46d20f1d299f509a0c01a91a822cba4d82a77353f93d12d9bee686c9810a6af4f575515b780baf1bb9c4fb3cd62fc645c6172bc0f1d90_1280.jpg"
+  },
+  "salted-potato-chips": {
+    "source": "pixabay",
+    "photographer": "Sabrina_Ripke_Fotografie",
+    "page": "https://pixabay.com/photos/pumpkin-vegetables-autumn-basket-1768857/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/g5c8ac5ce7a69280e7fa6d4bf0e898e4c6310e5c389d1633463f18dfa29a3aa13d37bbbf2ca705516d3d5b2b5b6ab66b5459d6a7b1673468069a7ed1e5f42139c_1280.jpg"
+  },
+  "roasted-makhana-peri-peri": {
+    "source": "pixabay",
+    "photographer": "stevepb",
+    "page": "https://pixabay.com/photos/almonds-nuts-roasted-salted-1768792/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/gf8477d994ef58a51c6006d570b55720b32f56701a79fa2e2d7cd28d31f4c7609bc461d693544776ce66661b0ed5b06506868ee6b2081237d9ca7cb95c5c5a5d2_1280.jpg"
+  },
+  "garam-masala-100-g": {
+    "source": "pixabay",
+    "photographer": "monicore",
+    "page": "https://pixabay.com/photos/spices-jars-herbs-herbs-and-spices-2548653/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/g3c91fcbfd3c6ec20164064c2066bb741f81930cad1e786550839fe6d35ae89e9159b6462b21bada2a0329e9c6c9ae5ecc43dd5b3a09d315cf1777ce6a0559abd_1280.jpg"
+  },
+  "pomegranate": {
+    "source": "pixabay",
+    "photographer": "Fruchthandel_Magazin",
+    "page": "https://pixabay.com/photos/pomegranate-fruit-food-red-fruit-196800/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/g2e6f52f8c20fae89952d5946979da9cabee7516a6dd7a4c256cc6b7c50e8aa736acfd1e64f06e0bd9369a29d62bf3c78f542348caed65307936badd46cbe7cf1_1280.jpg"
+  },
+  "onions": {
+    "source": "pixabay",
+    "photographer": "Shutterbug26",
+    "page": "https://pixabay.com/photos/onions-garlic-vegetables-1238332/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/g4a64f6dbe6a34a8bc6d91d199cacd8779dbbf80435cfa402e5faf23113cfb970ad3d9be12c93f7d7fbed2f5e10d46e17cc22a5e6e1ee6b16d7342597be708643_1280.jpg"
+  },
+  "baby-spinach": {
+    "source": "pixabay",
+    "photographer": "RitaE",
+    "page": "https://pixabay.com/photos/noodles-tagliatelle-pasta-raw-2060886/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/g38fbe7b9a050206f4eb13715a40b7be747dfe56c90c7e4ef92bd96b56462db5f0506b269c217dd16c77bf2c5aa6b982c40d759699df8d581b6de5a74e39f76f6_1280.jpg"
+  },
+  "toned-milk-1-l": {
+    "source": "pixabay",
+    "photographer": "Couleur",
+    "page": "https://pixabay.com/photos/milk-glass-pitcher-fresh-2474993/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/g19676f912c65007e01163d0b32c849fdafd42181f09eabaaa21e3ebf81b9811f1bba4d16ef572b6e757a79d7d2f436b77bcc3d310c6a46ffb92385cf95c67517_1280.jpg"
+  },
+  "fresh-paneer": {
+    "source": "pixabay",
+    "photographer": "Einladung_zum_Essen",
+    "page": "https://pixabay.com/photos/spread-dip-food-flowers-snack-1776657/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/g47e893ddd3307fea57da895a9c5a6a727bf6bcc1f7ada25011c2bd7166ecd47a770d5e3532a2c76280517af0ac36fc2fa7339278fe927c463d752db89f297514_1280.jpg"
+  },
+  "set-curd": {
+    "source": "pixabay",
+    "photographer": "congerdesign",
+    "page": "https://pixabay.com/photos/blueberries-berries-fresh-fruits-2278921/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/gabaa2d886ee1a959521c95c5650a91f7b8c145b5e04a473e5f3afef3ec08985864003311339908446aee964055decaa071ddbc8ec4b5f140380fdfa88e8bcd2d_1280.jpg"
+  },
+  "farm-eggs-6": {
+    "source": "pixabay",
+    "photographer": "Peggychoucair",
+    "page": "https://pixabay.com/photos/easter-eggs-eggs-easter-food-6035549/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/ga8abd40db115d62e333be664ef53993dbf707c366f0fbc9a566682eae89468bb81cee116feff3396f3a2516796ae3b7cb1d5309cc659c06994072c3b48f4b439_1280.jpg"
+  },
+  "peanut-butter-crunchy": {
+    "source": "pixabay",
+    "photographer": "Couleur",
+    "page": "https://pixabay.com/photos/nuts-peanuts-roasted-snacks-1736520/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/g58d6073b110ddc411c6e2b4a843960c4bc67af359dc002c64d1f812b6f57dde08d50d43b276a6ebdbb449848698d32b99474accd94aa09e8f41f82aee700cb5b_1280.jpg"
+  },
+  "dark-chocolate-70": {
+    "source": "pixabay",
+    "photographer": "pixel2013",
+    "page": "https://pixabay.com/photos/chocolates-chocolate-confiserie-1737503/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/g3f3ad645a8167df33582c15d28e95aef2355db95b4dd3a2059e09ca0df359ccb3f9721c393274b66f2f31a888d6e794b14a96e12b7351c09b744f82510e25277_1280.jpg"
+  },
+  "digestive-biscuits": {
+    "source": "pixabay",
+    "photographer": "LUM3N",
+    "page": "https://pixabay.com/photos/cookies-pastries-biscuits-1886760/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/gd51cf251dbcb38731b473d233ba3e1c42a97ba98fcba4b168c958a2ae79f5bf48fb8f972528a14e481a6cbc4ad580bdd9240c6c1e253c940c60e517fee4f2240_1280.jpg"
+  },
+  "roasted-chana": {
+    "source": "pixabay",
+    "photographer": "NickyPe",
+    "page": "https://pixabay.com/photos/coffee-beans-coffee-6603499/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/g75070fd2fe84f8c082868fe51ebe23bb4453e9949c3ff5716ad0b4babb84ffb6bc18c923f5fdf2019c4cc9e3eda62a51c215300924d9f782e52e8cf2552a18b4_1280.jpg"
+  },
+  "green-tea-bags-25": {
+    "source": "pixabay",
+    "photographer": "mirkostoedter",
+    "page": "https://pixabay.com/photos/tea-organic-pottery-green-healthy-6568547/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/gf17d8c9fe3b928eb50698e0842454b2b1d5009a906690fb1a01cf081ce387cc3eca364bb89af8de58d73b0977ac52e8e0c4a39595832f41ac3fc19528cdc99b9_1280.jpg"
+  },
+  "coconut-water": {
+    "source": "pixabay",
+    "photographer": "moho01",
+    "page": "https://pixabay.com/photos/food-coconut-fruit-healthy-3062139/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/g0c0b8df15f38d57f95b899b511ddc44bd95bc120e4e626da47d1516eef8843c1cfa37c19fcd81e8e04900c6d8e0b18db5312189097351ed377e68a8b972bd37b_1280.jpg"
+  },
+  "basmati-rice-1-kg": {
+    "source": "pixabay",
+    "photographer": "Pexels",
+    "page": "https://pixabay.com/photos/bowl-breakfast-fruits-healthy-food-1844894/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/g7ba4858b1d95573dcd99b05eff12d3d86c23f26c8831412d4b8e84da6b91fb0894664c75e28f1f21720efa6d4488be5ca925f9cf87b317998d8630bbe4b15429_1280.jpg"
+  },
+  "whole-wheat-atta-5-kg": {
+    "source": "pixabay",
+    "photographer": "RitaE",
+    "page": "https://pixabay.com/photos/loaf-ciabatta-flour-wheat-flour-4957679/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/g0d39a39e8c38fe0ba51314800733359e61fc57c024598a73dc7ff7c4f545ac944f93a0aaa4cb5825164e33415c77b7a5c71795042bad6ae4e9b711baa104b6f6_1280.jpg"
+  },
+  "rolled-oats-1-kg": {
+    "source": "pixabay",
+    "photographer": "ponce_photography",
+    "page": "https://pixabay.com/photos/yogurt-strawberries-food-fruit-1442034/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/g366871966e3005d1821cc2fd5fd25a9af26206f33abfe3e92b7630efcfc2add1f67f7771a0285b9709ab50b87f4fe463c18b2de7c84443a7d676eb285b574dbb_1280.jpg"
+  },
+  "corn-flakes-475-g": {
+    "source": "pixabay",
+    "photographer": "Couleur",
+    "page": "https://pixabay.com/photos/corn-harvest-healthy-sweet-corn-3705687/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/g983cdd8b9934d2cb09cc16a4d8427e797befcf9b26579093e84edaa6947dcc3a18680140bb36aa87bd552c538b7fea03e14926f8a38652b86fa0b4e5c7320bfd_1280.jpg"
+  },
+  "dishwash-liquid-750-ml": {
+    "source": "pixabay",
+    "photographer": "qimono",
+    "page": "https://pixabay.com/photos/drop-splash-water-liquid-wallpaper-3698073/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/g46fefbb035deb3f837c1cf6f9c0b1c7576b2a5846489f6fa89fd13b2fe040fbb2a02740fadae5dc56905cd3a32dca4c7aa8a3eec1c5a4107b1b7689c6c68d598_1280.jpg"
+  },
+  "floor-cleaner-1-l": {
+    "source": "pixabay",
+    "photographer": "stevepb",
+    "page": "https://pixabay.com/photos/vacuum-cleaner-carpet-cleaner-657719/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/g2914b0737e3c1f6cb4f11fcc42bdc58d9b1a0408629d36e0ef716752279b406b0543600f3a79c9c0defbe58460bf0c1787385b11175ac6d6e887c55f5c3fb2a6_1280.jpg"
+  },
+  "garbage-bags-30": {
+    "source": "pixabay",
+    "photographer": "pasja1000",
+    "page": "https://pixabay.com/photos/the-bottle-plastic-segregation-5128607/",
+    "note": "Photo from Pixabay (free to use under the Pixabay licence).",
+    "image": "https://pixabay.com/get/g98ffc0ee9d965684fdf4324c216f8a5aa0b1f18eed0265e9347826a14ad30f45d9f68617b6eda1dee5de20eec886f05131d9fa3baa647a2565334317a975a133_1280.jpg"
+  }
+}
