@@ -1,3 +1,9 @@
+## Project Documentation
+
+Complete project documentation:
+
+[View GrocerAI Documentation](docs/project-documentation/README.md)
+
 # GrocerAI — Smarter Choices. Fresher Living.
 
 An explainable, AI-assisted online grocery platform (React + Vite · Node/Express · MongoDB). The Android project in the repo root is **untouched**; this is a separate web app (see *Migration decisions*).
